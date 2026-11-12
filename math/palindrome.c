@@ -1,4 +1,5 @@
 /**
+ *very good program , I like
  * @file
  * @brief Program to identify if a number is [palindrome
  * number](https://en.wikipedia.org/wiki/Palindrome) or not.
